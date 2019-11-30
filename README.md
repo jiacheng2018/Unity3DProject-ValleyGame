@@ -8,7 +8,9 @@ This is my university VR research project. We use shimmer to detect people's psy
 
 
 ## Noticed: This game is a lower task load game environment, in which participants won't be encouraged to have the intensive mental and physical workload 
-
+## Snapshot 
+<br/>
+<img width="719" alt="Screen Shot 2019-11-30 at 12 42 50 PM" src="https://user-images.githubusercontent.com/42711913/69902159-ef2eb980-13d5-11ea-881e-3b51c63cb439.png">
 ## Equipment 
 ![images](https://user-images.githubusercontent.com/42711913/69894242-c0c6c500-1368-11ea-9192-bf535e1b4ef9.jpeg)
 The Shimmer3 GSR+ (Galvanic Skin Response) unit provides connections and preamplification for one channel of Galvanic Skin Response data acquisition (Electrodermal Resistance Measurement - EDR/Electrodermal Activity (EDA). The GSR+ unit is suitable for measuring the electrical characteristics or conductance of your skin, as well as capturing an Optical Pulse/PPG (Photoplethysmogram) signal and converting to estimate heart rate (HR), using the Shimmer ear clip or optical pulse probe.
